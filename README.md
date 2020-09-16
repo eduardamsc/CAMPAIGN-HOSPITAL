@@ -1,2 +1,3 @@
-# CAMPAIGN-HOSPITAL
-A repository to host the work developed for my masters' thesis.
+# CAMPAIGN-HOSPITAL 2019/2020
+
+Work developed for my masters' thesis "Analysing Socio-technical Systems Through Social Simulation".
